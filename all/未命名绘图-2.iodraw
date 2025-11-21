@@ -91,8 +91,8 @@
         <mxCell id="hjG7KupOC27Zv7D4kmdT-26" value="训练&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hjG7KupOC27Zv7D4kmdT-38" value="管理功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="410" width="100" height="40" as="geometry" />
+        <mxCell id="hjG7KupOC27Zv7D4kmdT-38" value="系统设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="410" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
