@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-23" value="应用服务器&lt;div&gt;- 用户服务&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- 训练计划服务&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- 社区服务&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- 系统管理服务&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="320" width="440" height="80" as="geometry" />
+          <mxGeometry x="40" y="320" width="440" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
