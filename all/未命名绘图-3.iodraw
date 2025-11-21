@@ -101,11 +101,11 @@
         </mxCell>
         <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="309.58" y="250" as="sourcePoint" />
-            <mxPoint x="309.58" y="330" as="targetPoint" />
+            <mxPoint x="499.58" y="240" as="sourcePoint" />
+            <mxPoint x="499.58" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-21" value="5. 调用大模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uY9vhdQ-N76Wcsnw0Q0v-20">
+        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-21" value="6. 管理API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uY9vhdQ-N76Wcsnw0Q0v-20">
           <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
             <mxPoint x="-41" as="offset" />
           </mxGeometry>
