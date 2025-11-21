@@ -56,6 +56,11 @@
         <mxCell id="hjG7KupOC27Zv7D4kmdT-13" value="管理功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="340" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hjG7KupOC27Zv7D4kmdT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hjG7KupOC27Zv7D4kmdT-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hjG7KupOC27Zv7D4kmdT-14" value="选择功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="340" width="100" height="40" as="geometry" />
         </mxCell>
