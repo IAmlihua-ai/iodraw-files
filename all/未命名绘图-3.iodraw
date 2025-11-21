@@ -22,8 +22,8 @@
             <mxPoint x="210" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-3" value="AI教练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="90" width="120" height="40" as="geometry" />
+        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-3" value="系统管理员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
