@@ -60,7 +60,7 @@
         <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499.71" y="120" as="sourcePoint" />
-            <mxPoint x="499.71" y="170" as="targetPoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-11" value="3. 管理用户/内容&lt;div&gt;审核社区帖子&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uY9vhdQ-N76Wcsnw0Q0v-10">
