@@ -12,16 +12,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="用户设定目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uY9vhdQ-N76Wcsnw0Q0v-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="100" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uY9vhdQ-N76Wcsnw0Q0v-33" target="uY9vhdQ-N76Wcsnw0Q0v-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-33" value="提交目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-36" value="用户设定目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="uY9vhdQ-N76Wcsnw0Q0v-36" value="AI教练&lt;div&gt;分析需求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
