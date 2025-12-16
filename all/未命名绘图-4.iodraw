@@ -32,18 +32,15 @@
         <mxCell id="_o9xmICaSqHVv-oHLT_0-440" value="登录/注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-441" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_o9xmICaSqHVv-oHLT_0-442">
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-441" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="250" as="sourcePoint" />
-            <mxPoint x="560.04" y="320" as="targetPoint" />
+            <mxPoint x="560.02" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="250" />
               <mxPoint x="560" y="250" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-442" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530.04" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
