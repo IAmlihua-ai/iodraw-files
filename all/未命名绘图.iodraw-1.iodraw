@@ -46,7 +46,7 @@
         <mxCell id="EMcYNklcOGoajwIjE6rg-11" value="填写健身问卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EMcYNklcOGoajwIjE6rg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EMcYNklcOGoajwIjE6rg-12" value="读取历史数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
