@@ -91,8 +91,14 @@
         <mxCell id="_o9xmICaSqHVv-oHLT_0-466" value="管理员功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="500" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-467" value="管理员功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-467" value="用户功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="500" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-468" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="450" as="sourcePoint" />
+            <mxPoint x="220" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
