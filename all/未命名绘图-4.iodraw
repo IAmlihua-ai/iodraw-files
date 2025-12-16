@@ -15,11 +15,14 @@
             <mxPoint x="350" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-450" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_o9xmICaSqHVv-oHLT_0-432" target="_o9xmICaSqHVv-oHLT_0-449">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-432" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-435" value="提示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="280" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-439" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -51,6 +54,9 @@
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-447" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-449" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
