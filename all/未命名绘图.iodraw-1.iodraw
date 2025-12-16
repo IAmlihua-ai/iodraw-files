@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-1" value="用户选择制定计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="229" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-3" value="是否新用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="227.5" y="300" width="125" height="80" as="geometry" />
