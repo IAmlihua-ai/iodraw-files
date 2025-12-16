@@ -94,13 +94,10 @@
         <mxCell id="_o9xmICaSqHVv-oHLT_0-467" value="用户功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="500" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-468" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-469" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.037;exitY=0.509;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="129" y="433.71" as="sourcePoint" />
-            <mxPoint x="40" y="434" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="433.71" />
-            </Array>
+            <mxPoint x="129.00000000000006" y="434.63" as="sourcePoint" />
+            <mxPoint x="54.44" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
