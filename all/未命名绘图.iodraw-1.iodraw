@@ -49,6 +49,9 @@
         <mxCell id="EMcYNklcOGoajwIjE6rg-12" value="读取历史数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EMcYNklcOGoajwIjE6rg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMcYNklcOGoajwIjE6rg-14" target="EMcYNklcOGoajwIjE6rg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-14" value="AI教练分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMcYNklcOGoajwIjE6rg-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EMcYNklcOGoajwIjE6rg-17" value="生成训练计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
