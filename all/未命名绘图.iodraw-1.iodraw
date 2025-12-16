@@ -73,10 +73,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EMcYNklcOGoajwIjE6rg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMcYNklcOGoajwIjE6rg-17" target="EMcYNklcOGoajwIjE6rg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-17" value="生成训练计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EMcYNklcOGoajwIjE6rg-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EMcYNklcOGoajwIjE6rg-19" value="计划预览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
