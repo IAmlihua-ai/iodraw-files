@@ -106,6 +106,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EMcYNklcOGoajwIjE6rg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMcYNklcOGoajwIjE6rg-28" target="EMcYNklcOGoajwIjE6rg-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-28" value="保存计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="108" y="840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -118,8 +121,8 @@
         <mxCell id="EMcYNklcOGoajwIjE6rg-31" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167.5" y="770" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMcYNklcOGoajwIjE6rg-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="EMcYNklcOGoajwIjE6rg-32" value="计划制定完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="107.5" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
