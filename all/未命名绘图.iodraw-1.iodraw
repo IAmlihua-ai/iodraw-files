@@ -46,9 +46,6 @@
         <mxCell id="EMcYNklcOGoajwIjE6rg-11" value="填写健身问卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EMcYNklcOGoajwIjE6rg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMcYNklcOGoajwIjE6rg-12" target="EMcYNklcOGoajwIjE6rg-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-12" value="读取历史数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -132,6 +129,15 @@
         </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107.5" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EMcYNklcOGoajwIjE6rg-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
