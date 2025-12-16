@@ -55,11 +55,17 @@
         <mxCell id="_o9xmICaSqHVv-oHLT_0-447" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-453" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_o9xmICaSqHVv-oHLT_0-449" target="_o9xmICaSqHVv-oHLT_0-452">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-449" value="进入主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-451" value="验证成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o9xmICaSqHVv-oHLT_0-452" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
