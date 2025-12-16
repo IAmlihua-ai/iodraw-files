@@ -67,15 +67,6 @@
         <mxCell id="_o9xmICaSqHVv-oHLT_0-452" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-455" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.8997269889802555;endAngle=0.532040612926791;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="90" width="250" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="_o9xmICaSqHVv-oHLT_0-457" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=3.1999999999999993;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="560" y="200" as="sourcePoint" />
-            <mxPoint x="560" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
