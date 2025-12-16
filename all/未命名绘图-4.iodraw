@@ -6,44 +6,44 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="_o9xmICaSqHVv-oHLT_0-431" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="100" as="sourcePoint" />
-            <mxPoint x="380" y="130" as="targetPoint" />
+            <mxPoint x="350" y="150" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-433" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_o9xmICaSqHVv-oHLT_0-432">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-432" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-435" value="提示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-439" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_o9xmICaSqHVv-oHLT_0-438">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="130" as="targetPoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-438" value="输入用户名密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-440" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-441" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="250" as="sourcePoint" />
-            <mxPoint x="560" y="250" as="targetPoint" />
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="250" />
-              <mxPoint x="560" y="250" />
+              <mxPoint x="440" y="300" />
+              <mxPoint x="530" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_o9xmICaSqHVv-oHLT_0-444" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
