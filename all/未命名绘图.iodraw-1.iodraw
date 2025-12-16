@@ -86,7 +86,13 @@
           <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EMcYNklcOGoajwIjE6rg-23" value="用户确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="750" width="90" height="80" as="geometry" />
+          <mxGeometry x="220" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EMcYNklcOGoajwIjE6rg-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="790" as="sourcePoint" />
+            <mxPoint x="390" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
